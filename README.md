@@ -1,3 +1,5 @@
+🇬🇧 **English version available here:** [README_EN.md](./README_EN.md)
+
 # Métriques informationnelles
 
 # Informational Metrics
